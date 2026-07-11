@@ -1,0 +1,10 @@
+streamlit==1.59.1
+openai>=1.54.0
+pandas==2.2.0
+plotly==5.19.0
+fpdf2==2.7.9
+openpyxl==3.1.2
+python-dotenv==1.0.0
+supabase==2.10.0
+truststore==0.10.4
+streamlit-cookies-controller==0.0.4
