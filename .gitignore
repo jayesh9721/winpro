@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Secrets
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+
+# Local data / debug output
+*.log
+hist_row*.json
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
